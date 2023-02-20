@@ -37,10 +37,12 @@ iframe#tela{
     left: 23px;
     width: 265px;
     height: 467px;
+   
 }
-section#redes-sociais{  
+section#redes-sociais{ 
+position: relative;
   text-align: right;
-  margin-right: 10%;
+  margin-right: 15%;
   padding-top: 10%;   
       
 }
